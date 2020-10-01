@@ -1,5 +1,5 @@
 # WebsiteMonitor
-Website availability &amp; performance monitor
+Website availability &amp; performance monitor(great app must try).
 
 ## JUnit Test added
 Use "Run As JUnit Test" to test Alerting logic
@@ -24,3 +24,4 @@ Printer:
 
 Test: 
 - Consider more boundary case regarding multiple thread
+THANK YOU
